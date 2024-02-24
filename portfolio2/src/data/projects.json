@@ -1,0 +1,19 @@
+[
+    {
+      "title": "TO-DO List",
+      "imageSrc": "projects/pro1.png",
+      "description": "This project is made to list out the activities  that to perform",
+      "skills": ["React", "Css"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Fathima-naja/todo"
+    },
+    {
+      "title": "Scientific Calculator",
+      "imageSrc": "projects/calc.png",
+      "description": "This is a simple project ie, a scientific calculator. it can perform calculations.",
+      "skills": ["React", "Css"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+
+]
