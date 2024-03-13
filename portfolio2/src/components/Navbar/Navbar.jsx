@@ -37,9 +37,7 @@ export const Navbar = () => {
           <a href="#about">Contact</a>
         </li>
 
-        <li>
-          <a href="#signin">SignIn </a>
-        </li>
+        
       </ul>
     </div>
   </nav>
